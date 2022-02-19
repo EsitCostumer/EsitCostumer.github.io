@@ -13,7 +13,7 @@
         <img src="Images/Name.jpg" width="200 px"  alt="Name" id="pic" />
         <div id="contact-info" class="vcard">
             <!-- Microformats! -->
-            <h1 class="fn">Имя Фамилия</h1>
+            <h1 class="fn">Имя Фамилия$$</h1>
             <p>
                 Cell: <span class="tel">+38 093 *** ** 87</span><br/>
                 Email: <a class="email" href="mailto:easyitnymail@gmail.com">easyitnymail@gmail.com</a>
